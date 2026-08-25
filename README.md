@@ -1,2 +1,7 @@
-# maxerhurt.github.io
-Fruzer Bun Pedia
+# FBPedia
+Fruzer Bun Pedia-фанатский и шуточный проект по фрузер гану.
+Важно отметить, что это НЕ официальный проект, а просто сатирический источник.
+
+
+# Личности:
+[Джмичри Бабаевич Пучк](https://maxerhurt.github.io/puchk)
